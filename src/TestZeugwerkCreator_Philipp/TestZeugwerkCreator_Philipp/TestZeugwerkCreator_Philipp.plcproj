@@ -16,11 +16,11 @@
     <Implicit_Jitter_Distribution>{7fa03807-11a4-4f2c-81fc-abc3be89fbb9}</Implicit_Jitter_Distribution>
     <LibraryReferences>{20170c6e-9af9-4b3f-b178-ec3cf9233492}</LibraryReferences>
     <Released>false</Released>
-    <Title>DeviceInfo</Title>
-    <ProjectVersion>1.0.2.2</ProjectVersion>
-    <Author>Matthias Seehauser</Author>
-    <DefaultNamespace>DeviceInfo</DefaultNamespace>
-    <Company>seehmatix</Company>
+    <Title>TestZeugwerkCreator_Philipp</Title>
+    <ProjectVersion>1.0.0.0</ProjectVersion>
+    <Author>Philipp Hagen</Author>
+    <DefaultNamespace>TestZeugwerkCreator_Philipp</DefaultNamespace>
+    <Company>philipp</Company>
     <AllowChecksForLibrary>false</AllowChecksForLibrary>
     <POUsForPropertyAccessIncluded>false</POUsForPropertyAccessIncluded>
     <GlobalVersionStructureIncluded>false</GlobalVersionStructureIncluded>
