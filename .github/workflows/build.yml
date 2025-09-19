@@ -19,6 +19,12 @@ jobs:
         with:
           username: ${{ secrets.ACTIONS_ZGWK_USERNAME }}
           password: ${{ secrets.ACTIONS_ZGWK_PASSWORD }}
+          variant-build: "Machine1"
+          variant-test: "NoHardware"
+          static-analysis: true
+          workspace: "TestZeugwerkCreator_Philipp"
+          skip-build: false
+          skip-test: false
       - name: Publish Unittest
         uses: EnricoMi/publish-unit-test-result-action@v2
         with:
