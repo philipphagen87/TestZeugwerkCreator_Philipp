@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1">
+  <POU Name="fb_test" Id="{95168636-7326-4d1d-a9b7-882ec4c6c6b2}" SpecialFunc="None">
+    <Declaration><![CDATA[FUNCTION_BLOCK fb_test
+/// this is my first test fb
+VAR_INPUT
+END_VAR
+VAR_OUTPUT
+	o_ui_countValue		:UINT;
+END_VAR
+VAR
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[]]></ST>
+    </Implementation>
+    <Method Name="Count" Id="{bee2aedd-a9a7-45cc-b84c-4d49be49a7f1}">
+      <Declaration><![CDATA[METHOD Count : BOOL
+VAR_INPUT
+	i_ui_countCalue			:uint;
+END_VAR
+]]></Declaration>
+      <Implementation>
+        <ST><![CDATA[o_ui_countValue:=o_ui_countValue+i_ui_countCalue;]]></ST>
+      </Implementation>
+    </Method>
+    <LineIds Name="fb_test">
+      <LineId Id="9" Count="0" />
+    </LineIds>
+    <LineIds Name="fb_test.Count">
+      <LineId Id="5" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>
