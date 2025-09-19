@@ -1,0 +1,103 @@
+{
+  "source_base_path": "E:/#Twincat/TestZeugwerkCreator_Philipp/src/TestZeugwerkCreator_Philipp/TestZeugwerkCreator_Philipp/_doc",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "reference/TestZeugwerkCreator_Philipp/Tests/fb_testTest.md",
+      "output": {
+        ".html": {
+          "relative_path": "reference/TestZeugwerkCreator_Philipp/Tests/fb_testTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "reference/TestZeugwerkCreator_Philipp/fb_test.md",
+      "output": {
+        ".html": {
+          "relative_path": "reference/TestZeugwerkCreator_Philipp/fb_test.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/TestZeugwerkCreator_Philipp/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/TestZeugwerkCreator_Philipp/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/TestZeugwerkCreator_Philipp/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "userguide/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "userguide/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "userguide/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "userguide/toc.html"
+        },
+        ".json": {
+          "relative_path": "userguide/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

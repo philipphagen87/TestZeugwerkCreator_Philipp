@@ -15,7 +15,7 @@
     <Implicit_KindOfTask>{86cb23fc-f701-48dc-a93b-22fc9590ae29}</Implicit_KindOfTask>
     <Implicit_Jitter_Distribution>{7fa03807-11a4-4f2c-81fc-abc3be89fbb9}</Implicit_Jitter_Distribution>
     <LibraryReferences>{20170c6e-9af9-4b3f-b178-ec3cf9233492}</LibraryReferences>
-    <Released>false</Released>
+    <Released>true</Released>
     <Title>TestZeugwerkCreator_Philipp</Title>
     <ProjectVersion>1.0.0.0</ProjectVersion>
     <Author>Philipp Hagen</Author>
