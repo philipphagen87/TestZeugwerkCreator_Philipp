@@ -54,7 +54,6 @@
     <PlaceholderReference Include="Testbench">
       <DefaultResolution>Testbench, 1.0.0.0 (Zeugwerk GmbH)</DefaultResolution>
       <Namespace>Testbench</Namespace>
-      <QualifiedOnly>true</QualifiedOnly>
     </PlaceholderReference>
   </ItemGroup>
   <ItemGroup>
@@ -74,7 +73,7 @@
       <Resolution>Tc3_Module, * (Beckhoff Automation GmbH)</Resolution>
     </PlaceholderResolution>
     <PlaceholderResolution Include="Testbench">
-      <Resolution>Testbench, * (Zeugwerk GmbH)</Resolution>
+      <Resolution>Testbench, 1.0.0.0 (Zeugwerk GmbH)</Resolution>
     </PlaceholderResolution>
   </ItemGroup>
   <ItemGroup>
