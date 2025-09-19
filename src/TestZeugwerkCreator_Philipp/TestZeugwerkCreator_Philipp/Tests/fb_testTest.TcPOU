@@ -18,7 +18,7 @@ END_VAR]]></Declaration>
         <ST><![CDATA[Count(1);
 assertions.EqualsUint(1,SUPER^.o_ui_countValue,'Value not 1');
 Count(2);
-assertions.EqualsUint(5,SUPER^.o_ui_countValue,'Value not 5');]]></ST>
+assertions.EqualsUint(3,SUPER^.o_ui_countValue,'Value not 3');]]></ST>
       </Implementation>
     </Method>
     <LineIds Name="fb_testTest">
