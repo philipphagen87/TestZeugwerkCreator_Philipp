@@ -15,4 +15,5 @@ jobs:
       - uses: Zeugwerk/twinpack-action@v0.4.0
         with:
           username: ${{ secrets.ACTIONS_ZGWK_USERNAME }}
-          password: ${{ secrets.ACTIONS_ZGWK_PASSWORD }}       
+          password: ${{ secrets.ACTIONS_ZGWK_PASSWORD }}  
+          workspace: "src"     

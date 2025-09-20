@@ -2,6 +2,7 @@
 <TcPlcObject Version="1.1.0.1">
   <POU Name="fb_test" Id="{95168636-7326-4d1d-a9b7-882ec4c6c6b2}" SpecialFunc="None">
     <Declaration><![CDATA[/// this is my first test fb
+/// some more doc
 FUNCTION_BLOCK fb_test
 VAR_INPUT
 END_VAR

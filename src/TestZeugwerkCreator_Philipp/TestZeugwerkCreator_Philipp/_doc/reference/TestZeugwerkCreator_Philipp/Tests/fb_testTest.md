@@ -10,6 +10,9 @@ uid: TestZeugwerkCreator_Philipp.fb_testTest
 <div><a class="xref" href="../../TestZeugwerkCreator_Philipp/fb_test.md">TestZeugwerkCreator_Philipp.fb_test</a></div>
 <div><a class="xref" href="../../TestZeugwerkCreator_Philipp/Tests/fb_testTest.md">fb_testTest</a></div>
 </dd></dl>
+<dl class="typelist implements"><dt>Inherited Methods</dt><dd>
+<div><a class="xref" href="../../TestZeugwerkCreator_Philipp/fb_test.md#Count">Count</a></div>
+</dd></dl>
 <dl class="typelist implements"><dt>Implements</dt><dd>
 <div>Testbench.IUnitTest</a></div>
 </dd></dl>
